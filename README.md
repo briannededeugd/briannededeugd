@@ -1,3 +1,3 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=briannededeugd&show_icons=true&locale=en&layout=compact" alt="briannededeugd" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=briannededeugd&count_private=true&show_icons=true&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=briannededeugd&show_icons=true&locale=en" alt="briannededeugd" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=briannededeugd&layout=compact&theme=tokyonight)
