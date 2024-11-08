@@ -50,5 +50,9 @@
 
 <div align="center">
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=briannededeugd&count_private=true&show_icons=true&theme=date_night" align="center" />
+  
+  <br />
+
+  <br />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=briannededeugd&layout=compact&theme=date_night" align="center" />
 </div>
