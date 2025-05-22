@@ -37,22 +37,3 @@
 <p align="center"> <sub>html5  ∿  css3  ∿  javascript  ∿  express  ∿  nodejs  ∿  react  ∿  sveltekit  ∿  tailwind  ∿  typescript  ∿  mongodb  ∿  d3  ∿  sass  ∿  figma</sub> </p>
 
 <br />
-
-<div id="toc" align="center">
-  <ul style="list-style: none">
-    <summary>
-      <h2 align="center"> 🎧 stats </h2>
-    </summary>
-  </ul>
-</div>
-
-<p align="center">🪷 ☁️ 🪡 🎻 🚡 <br /> What I've been up to on here</p>
-
-<div align="center">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=briannededeugd&count_private=true&show_icons=true&theme=date_night" align="center" />
-  
-  <br />
-
-  <br />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=briannededeugd&layout=compact&theme=date_night" align="center" />
-</div>
