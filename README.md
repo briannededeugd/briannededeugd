@@ -6,7 +6,7 @@
   </ul>
 </div>
 
-<p style="underline" align="center">🧘🏽‍♀️ 📮 🚏 🎠 ☀️ <br /> Software engineer at Q42 and alumni of Amsterdam University <br /> of Applied Sciences with a Bachelor of Science 🎓 </p>
+<p style="underline" align="center">🧘🏽‍♀️ 📮 🚏 🎠 ☀️ <br /> Junior software engineer at Q42 and alumnus of Amsterdam University <br /> of Applied Sciences with a Bachelor of Science 🎓 </p>
 
 <div id="toc" align="center">
   <ul style="list-style: none">
